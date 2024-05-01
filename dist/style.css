@@ -5,12 +5,14 @@
 }
 * .container {
   width: 1440px;
-  height: 831px;
-  background: black;
+  background: whitesmoke;
   margin: 0 auto;
 }
 * .container .header {
   width: 1200px;
   height: 62px;
-  background: red;
+}
+* .main {
+  height: 831px;
+  background-image: url(./img/bg.png);
 }
